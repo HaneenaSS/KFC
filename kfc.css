@@ -1,0 +1,120 @@
+.button1{
+    margin-left: 20px;
+    
+}
+.brand-text{
+    margin-left: 165px;
+    max-width: 97px;
+    height: 48px;
+}
+
+.btn-custom {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+}
+.custom-margin{
+    margin-left: 3em;
+  
+}
+.nav-image{
+    max-width: 30px;
+    margin-top: -8px;
+
+}
+
+.btn-2{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-weight: 700;
+   box-shadow: 0,0,0.5
+   rgba(0, 0, 0, 1.5);
+
+}
+.custom-font{
+    font-weight: 900;
+    font-family: serif;
+    font-style: italic;
+}
+.img-details{
+    width: 25px;
+    height: 20px;
+    padding-left: 5px;
+    margin-left: -23px;
+    margin-right: 520px;
+    margin-bottom: -46px;
+}
+.textcostum{
+    font-size: 18px;
+    font-family: fangsong;
+    font-weight: 400;
+    height: 32px;
+    word-spacing: -1px;
+    
+}
+
+  
+
+.custom-img{
+    
+        max-width: 100%; /* Ensure images are responsive */
+        height: auto;
+        padding-left: 0px;
+    
+}
+.custom-footermi{
+    background-color: rgb(55, 55, 55);
+    padding-top: 150px;
+    color: white;
+}
+
+
+@media (max-width: 600px) {
+    .custom-footer {
+  align-items: center;
+  margin-left: 2px;
+
+    }
+    .custom-card{
+        justify-content: center;
+        align-items: center;
+        margin-right: 3px;
+    }
+    
+    .legal{
+        text-decoration: underline;
+        font-weight: 600;
+    }
+    .customlo{
+        justify-content: start;
+        width:200px;
+
+    }
+    .customcopy{
+        text-align: end;
+    }
+}
+.customacc{
+    background-color:  rgb(55, 55, 55) ;
+}
+    
+.custom-footer{
+    padding-top: 50px;
+}
+
+.customlo{
+
+    width: 200px;
+}
+.customcopy{
+    font-size: small;
+    text-align: center;
+   
+}
+
